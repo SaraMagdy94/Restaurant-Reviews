@@ -26,7 +26,6 @@ self.addEventListener('install', function(event) {
                 './js/main.js',
                 './js/restaurant_info.js',
                 './js/dbhelper.js',
-                "./sw.js",
 
             ]);
         })
