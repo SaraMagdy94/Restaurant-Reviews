@@ -22,7 +22,6 @@ self.addEventListener('install', function(event) {
                 './img/12.jpg',
                 './img/17.jpg',
                 './img/22.jpg',
-                './img/logo.png',
                 './js/main.js',
                 './js/restaurant_info.js',
                 './js/dbhelper.js',
